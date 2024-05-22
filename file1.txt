@@ -1,3 +1,12 @@
 This is file1.txt file.
 Edited using vi editor.
 Learning Git and Github
+
+code commit - 1
+
+
+code commit - 2
+
+
+commit - 3
+
